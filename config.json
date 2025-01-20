@@ -1,0 +1,7 @@
+{
+    "api_key": "请替换为您的API密钥", 
+    "cx": "请替换为您的搜索控制器ID", 
+    "last_keyword": "google语法",
+    "start_page": "1",
+    "end_page": "10"
+}
