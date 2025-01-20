@@ -2,7 +2,7 @@
 
 一个现代化的Google搜索URL采集工具，使用CustomTkinter构建精美的深色主题图形界面，支持批量获取搜索结果并导出为CSV文件。
 
-![image](C:\Users\32398\Desktop\github_tool\google_search\image.png)
+![image](https://github.com/qinshanmumaniu/google_search/blob/main/image.png)
 
 ## 功能特点
 
